@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 </br>
 🔭 Creador de aplicaciones Android 
 </br>
-😄 Youtuber Tutoriales
 </br>
 💬 Esoterismo 
 </br>

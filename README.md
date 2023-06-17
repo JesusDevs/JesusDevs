@@ -1,24 +1,28 @@
-# Hi there 👋
+# Hola, soy {Jesus} 👋
 
-<!--
-**JesusDevs/JesusDevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador Android con experiencia en el manejo de Kotlin y diversas tecnologías y frameworks de Android. Me apasiona crear aplicaciones eficientes, escalables y mantenibles que proporcionen valor a los usuarios.
 
-Here are some ideas to get you started:
+## Habilidades Técnicas 🛠️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&logo=kotlin&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?&logo=java&logoColor=white" />
+  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?&logo=android&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?&logo=firebase&logoColor=white" />
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?&logo=sqlite&logoColor=white" />
+  <img alt="Room" src="https://img.shields.io/badge/Room-616161?&logo=room&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?&logo=github&logoColor=white" />
+</p>
 
- Hola Mundo , 
- </br>
- Soy JesusDevs un desarrollador de aplicaciones moviles en Android !
-</br>
+## Proyectos 📚
+
+He trabajado en varios proyectos de Android, desde aplicaciones de juegos hasta herramientas de productividad. Puedes ver algunos de mis proyectos en mi GitHub.
+
+## Contacto 📫
+
+Si estás interesado en trabajar conmigo o simplemente quieres decir hola, no dudes en contactarme a través de [tu correo electrónico] o [otra forma de contacto].
+
 
 ⚡ Apasionado por la Tecnoclogía 
 </br>
@@ -28,16 +32,3 @@ Here are some ideas to get you started:
 💬 Esoterismo 
 </br>
 ✨ Magia y red de Hilos 
-
-
-## Skills ✨
-
-
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
-</br>
-[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
-</br>
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-</br>
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
-</br>

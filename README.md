@@ -21,7 +21,7 @@ He trabajado en varios proyectos de Android, desde aplicaciones de juegos hasta 
 
 ## Contacto 📫
 
-Si estás interesado en trabajar conmigo o simplemente quieres decir hola, no dudes en contactarme a través de [tu correo electrónico] o [otra forma de contacto].
+Si estás interesado en trabajar conmigo o simplemente quieres decir hola, no dudes en contactarme a través de [leon.rodriguez.ore@gmail.com].
 
 
 ⚡ Apasionado por la Tecnoclogía 
